@@ -1,9 +1,13 @@
 # .filter
 
 1. What does `.filter` do?
+  \n it operates similar to find, but returns all matches
 2. Is the original array modified?
+  \n no
 3. How many arguments does `.filter` take?
+  \n one a callback
 4. How many arguments does the _callback function_ take?
+  
 5. Which arguments are required (for both the method and its callback)?
 6. Does the callback need a return value? If so, what needs to be returned?
 
