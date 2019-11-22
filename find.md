@@ -1,11 +1,17 @@
 # .find
 
 1. What does `.find` do?
+  \n finds the first item that matches condition in array
 2. Is the original array modified?
+  \n not modified
 3. How many arguments does `.find` take?
+  \n one a callback function
 4. How many arguments does the _callback function_ take?
+  \n one the array to search on
 5. Which arguments are required (for both the method and its callback)?
+  \n both
 6. Does the callback need a return value? If so, what needs to be returned?
+  \n a boolean must returned 
 
 ## Example 1:
 Given an array of countries, write a function that returns the first listed country in North America
