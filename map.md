@@ -1,11 +1,17 @@
 # .map
 
 1. What does `.map` do?
+  \n creates an array of the same length based on restructure function
 2. Is the original array modified?
+  \n no
 3. How many arguments does `.map` take?
+  \n one
 4. How many arguments does the _callback function_ take?
+  \n none
 5. Which arguments are required (for both the method and its callback)?
+  \n yes an index
 6. Does the callback need a return value? If so, what needs to be returned?
+  \n it can take one
 
 ## Example 1:
 
